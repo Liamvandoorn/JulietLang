@@ -1,0 +1,51 @@
+
+__________________
+Testar variabel assignering 
+While works, slutar dock funka såfort vi använder
+punkt
+__________________
+
+if you're able to write, this things should be fine
+
+first we're going to make the variable x and set it so @x is 0
+then we're going to add one to it @x is @x plus 1
+lastly we'll make it so @x is @x plus 1
+
+we're also going to check if the expression @x is bigger than 1 is true, @x is @x plus 1.
+
+now x should be three
+@y is 5,
+@x is 0
+
+while the expression @x is smaller than 4 is true, @x is @x plus 1.
+
+now x should be four
+@x plus 0 is a good way to print things and you should be able to see it in the terminal
+now that we don't have anyway of printing method
+
+__________________ 
+
+@newString is "hello"
+
+strängar kan ej assigneras, men det är ganska lång väg, vi behöver liksom välja
+om varje char ska sparas som ett objekt, sen ska varje char sparas i en lista som
+uppgör en sträng
+
+if the expression 5 is bigger than 4 is true, @x plus 1.
+
+for @i in the range 2 to 10, @x is @x plus 2.
+
+@xX is 11111111111111111111111111111111111111111111111111111111111
+
+if the expression 2 is bigger than 1 is true, @xX plus 1. 
+
+the function @matte takes @x: return @x plus 1.
+
+@matte taking in: 6.
+
+
+the function @fun takes @y: @y is 1 plus @y, if the expression @y is smaller than 8 is true, @fun taking in: @y...
+
+@f is @fun taking in: 4.
+@x is @f
+

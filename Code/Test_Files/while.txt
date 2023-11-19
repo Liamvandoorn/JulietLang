@@ -1,0 +1,11 @@
+we're going to showcase a while loop now, thirst we'll create the variable x @x is 0
+
+let's try to loop through it now, while the expression @x is smaller than 4 is true, @x is @x plus 1.
+
+now x should be four
+@x plus 0 is a good way to print things and you should be able to see it in the terminal
+now that we don't have anyway of printing method
+
+@variable_2 is 46
+
+@print taking in: @variable_2.

@@ -1,0 +1,11 @@
+the function @matte takes @x: @x is @x plus 2: return @x.
+
+@y is @matte taking in: 6.
+
+@print taking in: @y.
+
+@print taking in: "hello world".
+
+@x is @input taking in no parameters.
+
+@print taking in: @x. 
